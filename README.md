@@ -2,7 +2,7 @@
 A PIC16F88/87 based replacement for Apple PLCC ADB Controller using Tashtari's port of the original ADB controllers firmware
 
 # Assembly
-Solder a QFN PIC16F88 or PIC16F87 to the adapter PCB
+Solder a QFN PIC16F88 or PIC16F87 to the adapter PCB  
 Thats it!
 
 # Programming
