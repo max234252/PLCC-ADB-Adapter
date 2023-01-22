@@ -17,4 +17,4 @@ PGC - Pin 21
 When initially testing this I had some issues with MPlab 8 not wanting to program the PIC, it seems for whatever reason MPlab 8 programmed a incompatible firmware onto my Pickit, this was fixed by opening MPlab X and getting it to program the correct firmware onto the Pickit after which MPlab 8 was able to successfully program the PIC. This may have been a fluke but if you have trouble getting the PIC to program it's worth a try!
 
 # Code
-The code for the PIC can be downloaded from [Here](https://github.com/lampmerchant/macseadb88)
+The code for the PIC can be downloaded from Tashtari's github [Here](https://github.com/lampmerchant/macseadb88)
